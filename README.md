@@ -13,5 +13,4 @@ Este repositório contém minhas soluções para os exercícios propostos do liv
 
 ### Capítulo 1: `Introdução`
 
-**Exercício 1.1:** `Exercício utilizando entrada e saída de dados, conversão de tipo de dados, operações aritméticas`
-
+### Capítulo 2: `Integração com HTML`
